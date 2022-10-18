@@ -1,3 +1,3 @@
 TIMEOUT 1 > NUL
 TASKKILL /IM main.exe
-RM /S /Q "C:\exfilt2"
+RD /S /Q "C:\exfilt2"
